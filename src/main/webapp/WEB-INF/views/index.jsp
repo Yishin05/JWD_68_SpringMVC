@@ -8,6 +8,11 @@
 </head>
 <body>
 <h3>Spring MVC GitHub</h3>
+<h3>Spring MVC </h3>
+<h3>Updated by Yati Win Latt</h3>
+
+
+<h2> Updated by Wai Yan Thae Maung</h2>
 
 <h3>${msg}</h3>
 </body>
