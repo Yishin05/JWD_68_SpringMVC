@@ -21,4 +21,6 @@ public class StudentBean {
 	@Range(min=18, max = 90)
 	@NotNull
 	private Integer age;
+	
+	private String email;
 }
