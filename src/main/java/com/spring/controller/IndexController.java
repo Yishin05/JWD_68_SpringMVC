@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 //this is sai sai
 //Hnin Ei Lwin
-//yishin
+//yinshin
 
 @Controller
 public class IndexController {
