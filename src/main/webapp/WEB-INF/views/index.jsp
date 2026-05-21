@@ -9,6 +9,8 @@
 <body>
 <h3>Spring MVC GitHub1234</h3>
 
+<h2> Updated by Wai Yan Thae Maung</h2>
+
 <h3>${msg}</h3>
 </body>
 </html>
